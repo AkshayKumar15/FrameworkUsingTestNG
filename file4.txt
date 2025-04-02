@@ -1,2 +1,0 @@
-Page Object Model code
-BDD framework
